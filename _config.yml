@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "readerman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_20190103_120233.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "埼玉"
   email            :
