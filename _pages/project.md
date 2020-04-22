@@ -2,14 +2,13 @@
 permalink: /project/
 title: "Project"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-
 toc: true
 ---
 
-# S.Korea
-## テスト
+## S.Korea
+### テスト
 
-# Japan
-## テスト
+## Japan
+### テスト
 
 - Project History
