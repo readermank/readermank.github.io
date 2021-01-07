@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "readerman"
   avatar           : "/assets/images/IMG_20190103_120233.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "人生を楽しみながら生きろう"
   location         : "埼玉"
   email            :
   links:
@@ -235,6 +235,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
