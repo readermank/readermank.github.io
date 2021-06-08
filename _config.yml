@@ -112,7 +112,7 @@ author:
   name             : "readerman"
   avatar           : "/assets/images/IMG_20190103_120233.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "人生を楽しみながら生きろう"
-  location         : "埼玉"
+  location         : "岐阜"
   email            :
   links:
     - label: "Email"
@@ -127,7 +127,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/hyunchul.kim.5811"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/hyunchul.kim.5811"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
